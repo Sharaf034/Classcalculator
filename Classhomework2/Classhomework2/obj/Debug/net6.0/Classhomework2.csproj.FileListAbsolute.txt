@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\bin\Debug\net6.0\Classhomework2.exe
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\bin\Debug\net6.0\Classhomework2.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\bin\Debug\net6.0\Classhomework2.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\bin\Debug\net6.0\Classhomework2.dll
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\bin\Debug\net6.0\Classhomework2.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.dll
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\refint\Classhomework2.dll
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\Classhomework2.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Classcalculation\homework\Classhomework2\Classhomework2\obj\Debug\net6.0\ref\Classhomework2.dll
